@@ -32,7 +32,7 @@ This is mainly a **learning/project tool** for networking and Java, but it’s a
 ## 🛠 Tech Stack
 
 - **Language:** Java  
-- **Type:** Console / CLI application  
+- **Type:** Swing UI  
 
 ---
 
