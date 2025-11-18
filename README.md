@@ -10,7 +10,7 @@ You give it an IP address and subnet mask (or CIDR), and it calculates:
 - Number of usable hosts  
 - Subnet / prefix length (CIDR)  
 
-This is mainly a **learning/project tool** for networking and Java, but it’s also handy as a quick CLI subnet helper.
+This is mainly a **learning/project tool** for networking and Java, but it’s also handy as a quick subnet helper.
 
 ---
 
